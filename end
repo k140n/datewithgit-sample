@@ -1,0 +1,48 @@
+* [33mcommit c9513454c4104ecfb5a8d65ad79ccd8439d3ccbd[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+[31m|[m Author: Kiran Pallathu <kiranpallathu1003@gmail.com>
+[31m|[m Date:   Wed Jan 15 23:27:09 2025 +0530
+[31m|[m 
+[31m|[m     hello file modified
+[31m|[m   
+[31m|[m * [33mcommit 23d610d0f6edcdadb1f37afb5e3a5dae16d48620[m[33m ([m[1;32mmaster[m[33m)[m
+[31m|[m[31m/[m  Author: Kiran Pallathu <kiranpallathu1003@gmail.com>
+[31m|[m   Date:   Wed Jan 15 23:13:47 2025 +0530
+[31m|[m   
+[31m|[m       hey file modified
+[31m|[m   
+[31m|[m * [33mcommit f0e6529d0e60919280bd5a08001f6d1532bbcbe5[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[31m|[m[31m/[m[34m|[m Merge: d55afc4 c55eb4c
+[31m|[m [34m|[m Author: Kiran Pallathu <kiranpallathu1003@gmail.com>
+[31m|[m [34m|[m Date:   Wed Jan 15 23:09:54 2025 +0530
+[31m|[m [34m|[m 
+[31m|[m [34m|[m     WIP on feature: d55afc4 hey file dited
+[31m|[m [34m|[m 
+[31m|[m * [33mcommit c55eb4c3051b3112b7e2c1722a960aaa375778f1[m
+[31m|[m[31m/[m  Author: Kiran Pallathu <kiranpallathu1003@gmail.com>
+[31m|[m   Date:   Wed Jan 15 23:09:54 2025 +0530
+[31m|[m   
+[31m|[m       index on feature: d55afc4 hey file dited
+[31m|[m 
+* [33mcommit d55afc438b7a078ad1f7bd0c779fd6906740c891[m
+[34m|[m Author: Kiran Pallathu <kiranpallathu1003@gmail.com>
+[34m|[m Date:   Wed Jan 15 12:04:11 2025 +0530
+[34m|[m 
+[34m|[m     hey file dited
+[34m|[m 
+* [33mcommit 402a2329300b8c7ad53f75f0e6b8207e64dba635[m
+[34m|[m Author: Kiran Pallathu <kiranpallathu1003@gmail.com>
+[34m|[m Date:   Wed Jan 15 11:57:40 2025 +0530
+[34m|[m 
+[34m|[m     second file added
+[34m|[m 
+* [33mcommit 7ada8be01d168f79e23b7d1e137a65a715e04c5f[m
+[34m|[m Author: Kiran Pallathu <kiranpallathu1003@gmail.com>
+[34m|[m Date:   Tue Jan 14 23:08:14 2025 +0530
+[34m|[m 
+[34m|[m     added some messages
+[34m|[m 
+* [33mcommit 2360303f45a17e76d670228d974060dd3b71c149[m
+  Author: Kiran Pallathu <kiranpallathu1003@gmail.com>
+  Date:   Tue Jan 14 21:45:43 2025 +0530
+  
+      Initial commit
